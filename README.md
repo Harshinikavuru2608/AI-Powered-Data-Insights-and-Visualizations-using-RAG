@@ -22,3 +22,24 @@ Overall, this correlation matrix provides valuable insights into the relationshi
 - **seaborn**: Statistical data visualization library.
 - **matplotlib**: Comprehensive library for creating static, animated, and interactive visualizations.
 - **GPT-3.5 and LLaMA**: Large language models used for generating code and insights from data.
+
+## Installation
+
+Follow these steps to set up the project on your local machine:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/your-project-name.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd your-project-name
+    ```
+
+3. Install the dependencies using `requirements.txt`:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+The `requirements.txt` file contains all the necessary libraries for this project, including versions of `llama-index`, `arize-phoenix`, `pyvis`, and more.
